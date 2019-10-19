@@ -1,0 +1,25 @@
+{
+  "name": "dynamic-media-queries",
+  "version": "1.0.0",
+  "description": "Dynamic Media Queries Styling Method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeludemann/dynamic-media-queries.git"
+  },
+  "keywords": [
+    "media-queries"
+  ],
+  "author": "Mike Ludemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeludemann/dynamic-media-queries/issues"
+  },
+  "homepage": "https://github.com/mikeludemann/dynamic-media-queries#readme",
+  "dependencies": {
+    "styled-components": "^4.4.0"
+  }
+}
